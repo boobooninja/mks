@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment|Cabin);
+
+p {
+	font-family: 'Open Sans';
+}
+h1, h2 {
+	font-family: 'Cabin';
+}
+h1 {
+	text-transform: uppercase;
+}
+.author {
+	font-family: 'Condiment';
+	font-style: italic;
+}
+a {
+	font-size: 10px;
+}
+a:hover {
+	color: red;
+}
